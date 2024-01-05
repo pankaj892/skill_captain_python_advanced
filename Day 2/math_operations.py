@@ -1,3 +1,4 @@
+'''Add, subtract, multiply, divide, modulo, power, floor division operations'''
 def add_operation(a, b):
     return a + b
 
@@ -18,4 +19,3 @@ def power_operation(a, b):
 
 def floor_division_operation(a, b):
     return a // b
-
